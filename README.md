@@ -26,9 +26,8 @@ and system fundamentals.
   
 👨‍💻 <b>What I Build:</b> Clean, logical, and scalable backend applications<br/>
 
-🌱 <b>Learning:</b> Spring Boot, REST APIs, backend best practices<br/>
+🌱 <b>Learning:</b> Spring Boot, REST APIs <br/>
 
-⚡ <b>Fun Fact:</b> I enjoy debugging code and understanding system internals
 </p>
 
 <hr/>
@@ -102,14 +101,4 @@ and system fundamentals.
 </div>
 <hr/>
 
-<h3>🎯 Career Objective</h3>
-<p>
-Seeking <b>entry-level / trainee Java or Spring Boot backend developer roles</b> where I can
-learn from experienced developers, contribute to real-world backend systems, and grow as a software developer.
-</p>
-
 <hr/>
-
-<p align="center">
-⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!
-</p>
