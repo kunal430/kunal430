@@ -100,5 +100,3 @@ and system fundamentals.
   </div>
 </div>
 <hr/>
-
-<hr/>
